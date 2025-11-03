@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Hotels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="Hotels.xsd">
 
-  <!-- Phoenix area (4) -->
   <Hotel Rating="4.2">
     <Name>Westin Tempe</Name>
     <Phone>480-968-8885</Phone>
@@ -51,7 +50,6 @@
     </Address>
   </Hotel>
 
-  <!-- Orange County (4) -->
   <Hotel Rating="4.6">
     <Name>Disney's Grand Californian Hotel &amp; Spa</Name>
     <Phone>714-635-2300</Phone>
@@ -100,7 +98,6 @@
     </Address>
   </Hotel>
 
-  <!-- Bay Area (2) -->
   <Hotel Rating="4.6">
     <Name>San Francisco Marriott Marquis</Name>
     <Phone>415-896-1600</Phone>
